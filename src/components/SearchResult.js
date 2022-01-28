@@ -4,7 +4,7 @@ function SearchResult({ data }) {
   return (
     <div class="result">
       <h3>
-        <a href={data.url} target="_blank">
+        <a href={data.url} target="_blank" style={{color:"white"}}>
           {data.title}
         </a>
       </h3>

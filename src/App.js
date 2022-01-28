@@ -192,7 +192,6 @@ function App() {
         return <SearchResult data={entry.item} />;
       });
     sectionResultsList =
-      sectionResults &&
       sectionResults.map((section) => {
         return <li>{section}</li>;
       });

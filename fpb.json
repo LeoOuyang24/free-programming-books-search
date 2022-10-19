@@ -2263,6 +2263,20 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://repository.kallipos.gr/bitstream/11419/6232/2/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F%2015.pdf",
+                           "title": "Γλώσσα προγραμματισμού Java",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://repository.kallipos.gr/bitstream/11419/6261/2/02_chapter_14.pdf",
+                           "title": "Διασύνδεση με JAVA Εφαρμογές",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -2287,6 +2301,13 @@
                         {
                            "url": "https://archive.org/details/AByteOfPythonEl",
                            "title": "Ένα byte της Python"
+                        },
+                        {
+                           "url": "https://repository.kallipos.gr/bitstream/11419/1708/3/85_Magoutis.pdf",
+                           "title": "Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -2310,6 +2331,20 @@
                         {
                            "url": "https://www.ebooks4greeks.gr/eisagwgh-sthn-sql-ergasthriakes-askhseis-se-mysql5-7",
                            "title": "Εισαγωγή στην SQL: Εργαστηριακές Ασκήσεις σε MySQL5.7"
+                        },
+                        {
+                           "url": "https://repository.kallipos.gr/bitstream/11419/276/3/00_master_symeonidis%2028-10-2015.pdf",
+                           "title": "Βάσεις, Αποθήκες και Εξόρυξη Δεδομένων με τον SQL Server",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://repository.kallipos.gr/bitstream/11419/6248/2/02_chapter_1.pdf",
+                           "title": "Εισαγωγή στα Συστήματα Διαχείρισης Σχεσιακών ΒΔ / MySQL 5.7",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -17826,11 +17861,12 @@
                            ]
                         },
                         {
-                           "url": "https://www.pycabook.com",
-                           "title": "Clean Architectures in Python",
+                           "url": "https://www.thedigitalcatbooks.com/pycabook-introduction/",
+                           "title": "Clean Architectures in Python - A practical approach to better software design (2022)",
                            "author": "Leonardo Giordani",
                            "notes": [
-                              "3.x"
+                              "3.x",
+                              "PDF"
                            ]
                         },
                         {
@@ -17895,11 +17931,6 @@
                            "url": "https://www.oreilly.com/ideas/functional-programming-in-python",
                            "title": "Functional Programming in Python",
                            "author": "David Mertz"
-                        },
-                        {
-                           "url": "https://clauswilke.com/dataviz/",
-                           "title": "Fundamentals of Data Visualization",
-                           "author": "Claus O. Wilke"
                         },
                         {
                            "url": "https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf",
@@ -19278,10 +19309,6 @@
                            "section": "Ruby on Rails",
                            "entries": [
                               {
-                                 "url": "https://github.com/bbatsov/rails-style-guide",
-                                 "title": "A community-driven Rails style guide"
-                              },
-                              {
                                  "url": "https://github.com/madeindjs/api_on_rails",
                                  "title": "Api on Rails 6",
                                  "author": "Alexandre Rousseau"
@@ -19307,6 +19334,11 @@
                                  "author": "Daniel Kehoe"
                               },
                               {
+                                 "url": "https://learn-rails.com/content/learnrails2",
+                                 "title": "Learn Ruby on Rails: Book Two",
+                                 "author": "Daniel Kehoe"
+                              },
+                              {
                                  "url": "https://web.archive.org/web/20190319201525/http://objectsonrails.com/",
                                  "title": "Objects on Rails",
                                  "author": "Avdi Grimm"
@@ -19314,6 +19346,11 @@
                               {
                                  "url": "http://guides.railsgirls.com",
                                  "title": "Rails Girls Guides"
+                              },
+                              {
+                                 "url": "https://rails.rubystyle.guide",
+                                 "title": "Rails Style Guide",
+                                 "author": "Bozhidar Batsov"
                               },
                               {
                                  "url": "https://books.goalkicker.com/RubyBook/",
@@ -25853,6 +25890,91 @@
                      "subsections": []
                   },
                   {
+                     "section": "Data Science",
+                     "entries": [
+                        {
+                           "url": "http://guidetodatamining.com",
+                           "title": "A Programmer's Guide to Data Mining",
+                           "author": "Ron Zacharski",
+                           "notes": [
+                              "Draft"
+                           ]
+                        },
+                        {
+                           "url": "http://www.oreilly.com/data/free/data-jujitsu.csp",
+                           "title": "Data Jujitsu: The Art of Turning Data into Product",
+                           "notes": [
+                              "email address *requested*, not required"
+                           ]
+                        },
+                        {
+                           "url": "https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R",
+                           "title": "Data Mining Algorithms In R",
+                           "author": "Wikibooks"
+                        },
+                        {
+                           "url": "https://allendowney.github.io/ElementsOfDataScience/README.html",
+                           "title": "Elements of Data Science",
+                           "author": "Allen B. Downey"
+                        },
+                        {
+                           "url": "https://clauswilke.com/dataviz/",
+                           "title": "Fundamentals of Data Visualization",
+                           "author": "Claus O. Wilke",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://handsondataviz.org",
+                           "title": "Hands-On Data Visualization",
+                           "author": "Jack Dougherty, Ilya Ilyankou",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "http://arxiv.org/pdf/1206.1754v2.pdf",
+                           "title": "Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1",
+                           "title": "Introduction to Data Science",
+                           "author": "Jeffrey Stanton"
+                        },
+                        {
+                           "url": "http://infolab.stanford.edu/~ullman/mmds/book.pdf",
+                           "title": "Mining of Massive Datasets",
+                           "author": "Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "http://schoolofdata.org/handbook/",
+                           "title": "School of Data Handbook"
+                        },
+                        {
+                           "url": "https://leanpub.com/LittleInferenceBook/read",
+                           "title": "Statistical inference for data science",
+                           "author": "Brian Caffo"
+                        },
+                        {
+                           "url": "https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/",
+                           "title": "The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)",
+                           "author": "Pulkit Sharma"
+                        },
+                        {
+                           "url": "http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining",
+                           "title": "Theory and Applications for Advanced Text Mining"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Database",
                      "entries": [
                         {
@@ -25911,75 +26033,6 @@
                         {
                            "url": "http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html",
                            "title": "The Theory of Relational Databases"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Datamining",
-                     "entries": [
-                        {
-                           "url": "http://guidetodatamining.com",
-                           "title": "A Programmer's Guide to Data Mining",
-                           "author": "Ron Zacharski",
-                           "notes": [
-                              "Draft"
-                           ]
-                        },
-                        {
-                           "url": "http://www.oreilly.com/data/free/data-jujitsu.csp",
-                           "title": "Data Jujitsu: The Art of Turning Data into Product",
-                           "notes": [
-                              "email address *requested*, not required"
-                           ]
-                        },
-                        {
-                           "url": "https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R",
-                           "title": "Data Mining Algorithms In R",
-                           "author": "Wikibooks"
-                        },
-                        {
-                           "url": "https://allendowney.github.io/ElementsOfDataScience/README.html",
-                           "title": "Elements of Data Science",
-                           "author": "Allen B. Downey"
-                        },
-                        {
-                           "url": "http://arxiv.org/pdf/1206.1754v2.pdf",
-                           "title": "Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1",
-                           "title": "Introduction to Data Science",
-                           "author": "Jeffrey Stanton"
-                        },
-                        {
-                           "url": "http://infolab.stanford.edu/~ullman/mmds/book.pdf",
-                           "title": "Mining of Massive Datasets",
-                           "author": "Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "http://schoolofdata.org/handbook/",
-                           "title": "School of Data Handbook"
-                        },
-                        {
-                           "url": "https://leanpub.com/LittleInferenceBook/read",
-                           "title": "Statistical inference for data science",
-                           "author": "Brian Caffo"
-                        },
-                        {
-                           "url": "https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/",
-                           "title": "The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)",
-                           "author": "Pulkit Sharma"
-                        },
-                        {
-                           "url": "http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining",
-                           "title": "Theory and Applications for Advanced Text Mining"
                         }
                      ],
                      "subsections": []
@@ -26323,6 +26376,14 @@
                         {
                            "url": "http://www.csee.umbc.edu/csee/research/cadip/readings/IR.report.120600.book.pdf",
                            "title": "Information Retrieval: A Survey",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf",
+                           "title": "Information Retrieval: Implementing and Evaluating Search Engines",
+                           "author": "Stefan Böttcher, Charles L. A. Clarke, Gordon V. Cormack",
                            "notes": [
                               "PDF"
                            ]
@@ -34361,6 +34422,20 @@
                         }
                      ],
                      "subsections": []
+                  },
+                  {
+                     "section": "Swift",
+                     "entries": [
+                        {
+                           "url": "https://www.swiftbysundell.com/podcast/",
+                           "title": "Swift by Sundell",
+                           "author": "John Sundell",
+                           "notes": [
+                              "podcast"
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
@@ -40432,6 +40507,11 @@
                            "author": "Kunal Kushwaha"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE",
+                           "title": "DevOps Tutorial for Beginners",
+                           "author": "Intellipaat"
+                        },
+                        {
                            "url": "https://www.udacity.com/course/intro-to-devops--ud611",
                            "title": "Intro to DevOps",
                            "author": "Karl Krueger, Dwayne Lessner, Gundega Dekena",
@@ -43453,6 +43533,11 @@
                            "author": "Corey Schafer"
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB",
+                           "title": "Python Tutorials",
+                           "author": "freeCodeCamp.org"
+                        },
+                        {
                            "url": "https://www.sololearn.com/Course/Python/",
                            "title": "SoloLearn"
                         },
@@ -43674,6 +43759,14 @@
                            "url": "https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/",
                            "title": "RESTful API with Ruby On Rails 5",
                            "author": "Udemy"
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free",
+                           "title": "Ruby on Rails a Beginners Guide",
+                           "author": "Stephen Chesnowitz",
+                           "notes": [
+                              "Udemy"
+                           ]
                         },
                         {
                            "url": "https://www.w3resource.com/ruby/",
@@ -44382,6 +44475,17 @@
                "index": {},
                "sections": [
                   {
+                     "section": "ABAP",
+                     "entries": [
+                        {
+                           "url": "https://www.udemy.com/course/sap-abap-iniciacion-a-la-programacion/",
+                           "title": "SAP ABAP Programación Iniciación",
+                           "author": "Logali Group"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Android",
                      "entries": [
                         {
@@ -45080,6 +45184,11 @@
                            "title": "Aplicaciones Web Avanzadas (2014)"
                         },
                         {
+                           "url": "https://open-bootcamp.com/cursos/angular",
+                           "title": "Bootcamp Angular gratis",
+                           "author": "Open Bootcamp"
+                        },
+                        {
                            "url": "https://www.pildorasinformaticas.es/course/css-avanzado-desde-0",
                            "title": "CSS Básico a Avanzado",
                            "author": "Juan Díaz",
@@ -45411,6 +45520,14 @@
                            "title": "Como crear y administrar un curso en MOODLE - TecNMx",
                            "notes": [
                               "TecNMx"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/",
+                           "title": "Visual Studio Code: Mejora tu velocidad para codificar",
+                           "author": "Fernando Herrera",
+                           "notes": [
+                              "udemy"
                            ]
                         }
                      ],
@@ -46429,6 +46546,11 @@
                            "author": "Code Step By Step"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL_qizAfcpJ-N2mRgfQxnDgsv20daqwlfN",
+                           "title": "Angular 13 Tutorial in Hindi",
+                           "author": "Sahosoft Solutions"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=0LhBvp8qpro&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=21",
                            "title": "Learn Angular in one video (Hindi)",
                            "author": "Code With Harry"
@@ -46661,6 +46783,11 @@
                            "notes": [
                               "YouTube"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT",
+                           "title": "Compiler Design Tutorial In Hindi",
+                           "author": "University Academy"
                         }
                      ],
                      "subsections": []
@@ -47447,6 +47574,11 @@
                            "url": "https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX",
                            "title": "NLP Tutorial Playlist Python",
                            "author": "Code Basics"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPIwNooIb9vimsumdWeKF3BRzs9tJ-_gy",
+                           "title": "Playlist to Natural Language Processing [ Hindi ]",
+                           "author": "Perfect Computer Engineer"
                         }
                      ],
                      "subsections": []
@@ -47510,6 +47642,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLbGui_ZYuhigFdLdbSI2EM2MrJB7I0j-B",
                            "title": "Core PHP (Hindi)",
                            "author": "Rajesh Kumar, Geeky Shows"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLmGElG-9wxc_Hp_bqKH0-cpeboH1_sQg7",
+                           "title": "PHP Tutorial for beginners in Hindi",
+                           "author": "ScoreShala"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs",
@@ -51466,6 +51603,14 @@
                      "section": "C++",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo",
+                           "title": "Curso C++",
+                           "author": "Cláudio Rogério Carvalho Filho",
+                           "notes": [
+                              "eXcript"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40",
                            "title": "Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador",
                            "author": "Canal Fessor Bruno",
@@ -54308,6 +54453,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be",
                            "title": "Komple React, Redux ve Hooks Dersleri",
                            "author": "Engin Demiroğ"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj",
+                           "title": "React Dersleri",
+                           "author": "Mustafa Murat Coşkun"
                         }
                      ],
                      "subsections": []
@@ -55849,6 +55999,14 @@
                      "section": "GraphQL",
                      "entries": [
                         {
+                           "url": "https://simplecheatsheet.com/tag/graphql-cheat-sheet",
+                           "title": "GraphQL Cheat Sheet",
+                           "author": "Simple Cheat Sheet",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://devhints.io/graphql",
                            "title": "GraphQL Cheatsheet",
                            "author": "devhints, Rico Santa Cruz",
@@ -56965,6 +57123,14 @@
                   {
                      "section": "Terraform",
                      "entries": [
+                        {
+                           "url": "https://www.techbeatly.com/terraform-cheat-sheet",
+                           "title": "Terraform Cheat Sheet",
+                           "author": "Gineesh Madapparambath",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
                         {
                            "url": "https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet",
                            "title": "Terraform Cheatsheet",

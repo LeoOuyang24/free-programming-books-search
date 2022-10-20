@@ -2763,19 +2763,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "C",
-                     "entries": [
-                        {
-                           "url": "http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf",
-                           "title": "GNU/Linux: Programación de Sistemas",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "C++",
                      "entries": [
                         {
@@ -9543,22 +9530,6 @@
                            "url": "http://minato.sip21c.org/msb/medstatbook.pdf",
                            "title": "Rによる保健医療データ解析演習",
                            "author": "中澤港",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://nuss.nagoya-u.ac.jp/index.php/s/kN6ZxsyReNzRPlM",
-                           "title": "統計解析ソフトRのスクリプト集",
-                           "author": "石井秀宗",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "http://cse.naro.affrc.go.jp/takezawa/r-tips.pdf",
-                           "title": "統計解析フリーソフトRの備忘録",
-                           "author": "竹澤邦夫",
                            "notes": [
                               "PDF"
                            ]
@@ -27463,6 +27434,11 @@
                            "author": "Paul Orland"
                         },
                         {
+                           "url": "https://github.com/liuxinyu95/unplugged",
+                           "title": "Isomorphism -- Mathematics of Programming",
+                           "author": "Larry LIU Xinyu"
+                        },
+                        {
                            "url": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
                            "title": "Mathematics for Computer Science",
                            "author": "Eric Lehman, F. Thomson Leighton, Albert R. Meyer",
@@ -40449,6 +40425,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr",
+                           "title": "Full Stack Computer Vision Tutorial with Tensorflow, Python, Tensorflow.JS with React.JS",
+                           "author": "Nicholas Renotte"
+                        },
+                        {
                            "url": "https://www.kaggle.com/learn/intro-to-deep-learning",
                            "title": "Intro to Deep Learning",
                            "author": "Ryan Holbrook"
@@ -40501,6 +40482,11 @@
                   {
                      "section": "DevOps",
                      "entries": [
+                        {
+                           "url": "https://explore.skillbuilder.aws/learn/public/learning_plan/view/85/devops-engineering-learning-plan?la=sec&sec=lp",
+                           "title": "AWS DevOps Engineer Learning Plan",
+                           "author": "AWS"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak",
                            "title": "DevOps Bootcamp",
@@ -46623,6 +46609,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLRlT7xBRpp9MiMN25XJjUVz01rGFQohq2",
+                           "title": "Blockchain Full Course in Hindi",
+                           "author": "Innovate India"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh",
                            "title": "Solidity ^0.8 | Blockchain | In Hindi",
                            "author": "Pepcoding",
@@ -46766,6 +46757,11 @@
                            "author": "Hello World"
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PL-Jc9J83PIiGkI_pL8l67OVvbpnwf-5yO",
+                           "title": "Range Queries - Level 3",
+                           "author": "Pepcoding"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PL-Jc9J83PIiEoZSwjEZT3TvpKG16FntFL",
                            "title": "Text Processing - Level 3",
                            "author": "Pepcoding"
@@ -46879,6 +46875,11 @@
                            "author": "Hello World"
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9",
+                           "title": "Heap Playlist Interview Questions Coding Tutorials Data Structures",
+                           "author": "Aditya Verma"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
                            "title": "Java + Data Structures + Algorithms",
                            "author": "Apni Kaksha"
@@ -46911,6 +46912,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV",
                            "title": "3.1 DBMS In Hindi (Complete Playlist)",
                            "author": "Knowledge Gate"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn",
+                           "title": "Database Management System ( DBMS )",
+                           "author": "Education 4u"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc",
@@ -47723,6 +47729,11 @@
                                  "author": "Rajesh Kumar, Geeky Shows"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLKkAfNrxxRKqYLB9bCqMXrvoYd13WVxOq",
+                                 "title": "Django in Hindi",
+                                 "author": "Effcon Technology"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN",
                                  "title": "Django REST Framework (Hindi)",
                                  "author": "Rajesh Kumar, Geeky Shows"
@@ -47751,6 +47762,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl",
                                  "title": "[Hindi] Flask Tutorial For Beginners 2020",
                                  "author": "Knowledge Shelf"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC",
+                                 "title": "Flask (Python) In Hindi",
+                                 "author": "HindiSiksha"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf",
@@ -49771,6 +49787,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9",
                            "title": "Corso rapido Python per principianti e per esempi",
                            "author": "Fabrizio Camuso"
+                        },
+                        {
+                           "url": "https://www.programmareinpython.it/video-corso-python-base/",
+                           "title": "Le Basi di Python - Corso Completo",
+                           "author": "Michele Saba"
                         }
                      ],
                      "subsections": []
@@ -54101,6 +54122,14 @@
                      "section": "Python",
                      "entries": [
                         {
+                           "url": "https://www.udemy.com/course/programming-for-kids-in-telugu",
+                           "title": "Free Programming Fundamentals Tutorial - programming బిగినర్స్ ప్రోగ్రామింగ్ in telugu తెలుగు python - Udemy",
+                           "author": "Saarvani R",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLC2mgeYbYNm-3aTUq98pbmrA3P1_m-aJR",
                            "title": "Python in Telugu - Step by Step Tutorials",
                            "author": "Telugu Computer World",
@@ -54428,6 +54457,11 @@
                            "author": "Engin Demiroğ"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I",
+                           "title": "Java Programlama",
+                           "author": "Mustafa Murat Coşkun"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87",
                            "title": "Yazılım Geliştirici Yetiştirme Kampı",
                            "author": "Engin Demiroğ"
@@ -54438,6 +54472,11 @@
                   {
                      "section": "Python",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O",
+                           "title": "Python Dersleri",
+                           "author": "Erol Mesutgün"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9",
                            "title": "Sıfırdan İleri Seviye Profesyonel Python Yazılım Geliştiricisi Olma Kursu (2021)",
@@ -55998,6 +56037,14 @@
                   {
                      "section": "GraphQL",
                      "entries": [
+                        {
+                           "url": "https://licor.me/post/graphql",
+                           "title": "GraphQL Cheat Sheet",
+                           "author": "Chuanrong Li",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
                         {
                            "url": "https://simplecheatsheet.com/tag/graphql-cheat-sheet",
                            "title": "GraphQL Cheat Sheet",
